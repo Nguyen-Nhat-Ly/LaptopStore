@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74CFB406-1F8A-4787-82EC-283F3B620859}|LaptopStore.Data\\LaptopStore.Data.csproj|c:\\users\\acer\\downloads\\api\\laptopstore.data\\models\\userbehaviortracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CFB406-1F8A-4787-82EC-283F3B620859}|LaptopStore.Data\\LaptopStore.Data.csproj|solutionrelative:laptopstore.data\\models\\userbehaviortracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CFB406-1F8A-4787-82EC-283F3B620859}|LaptopStore.Data\\LaptopStore.Data.csproj|c:\\users\\acer\\downloads\\api\\laptopstore.data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CFB406-1F8A-4787-82EC-283F3B620859}|LaptopStore.Data\\LaptopStore.Data.csproj|solutionrelative:laptopstore.data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257F394E-2CC5-47CD-AC55-9AB4355C3B6B}|LaptopStoreAPI\\LaptopStoreAPI.csproj|c:\\users\\acer\\downloads\\api\\laptopstoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257F394E-2CC5-47CD-AC55-9AB4355C3B6B}|LaptopStoreAPI\\LaptopStoreAPI.csproj|solutionrelative:laptopstoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27ADBFE-CD4B-4617-8A31-E3926D51BEC3}|LatopStore.MoMo\\LaptopStore.MoMo.csproj|c:\\users\\acer\\downloads\\api\\latopstore.momo\\services\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27ADBFE-CD4B-4617-8A31-E3926D51BEC3}|LatopStore.MoMo\\LaptopStore.MoMo.csproj|solutionrelative:latopstore.momo\\services\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB805B-20AD-4C9B-A016-040358E799FF}|LaptopStore.Service\\LaptopStore.Service.csproj|c:\\users\\acer\\downloads\\api\\laptopstore.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FB805B-20AD-4C9B-A016-040358E799FF}|LaptopStore.Service\\LaptopStore.Service.csproj|solutionrelative:laptopstore.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB805B-20AD-4C9B-A016-040358E799FF}|LaptopStore.Service\\LaptopStore.Service.csproj|c:\\users\\acer\\downloads\\api\\laptopstore.service\\requestmodels\\orderrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FB805B-20AD-4C9B-A016-040358E799FF}|LaptopStore.Service\\LaptopStore.Service.csproj|solutionrelative:laptopstore.service\\requestmodels\\orderrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27ADBFE-CD4B-4617-8A31-E3926D51BEC3}|LatopStore.MoMo\\LaptopStore.MoMo.csproj|c:\\users\\acer\\downloads\\api\\latopstore.momo\\momosettings\\momosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27ADBFE-CD4B-4617-8A31-E3926D51BEC3}|LatopStore.MoMo\\LaptopStore.MoMo.csproj|solutionrelative:latopstore.momo\\momosettings\\momosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FB805B-20AD-4C9B-A016-040358E799FF}|LaptopStore.Service\\LaptopStore.Service.csproj|c:\\users\\acer\\downloads\\api\\laptopstore.service\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FB805B-20AD-4C9B-A016-040358E799FF}|LaptopStore.Service\\LaptopStore.Service.csproj|solutionrelative:laptopstore.service\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:271430174:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserBehaviorTracker.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Data\\Models\\UserBehaviorTracker.cs",
+              "RelativeDocumentMoniker": "LaptopStore.Data\\Models\\UserBehaviorTracker.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Data\\Models\\UserBehaviorTracker.cs",
+              "RelativeToolTip": "LaptopStore.Data\\Models\\UserBehaviorTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:47:09.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Data\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "LaptopStore.Data\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Data\\Models\\Order.cs",
+              "RelativeToolTip": "LaptopStore.Data\\Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:09:37.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\API\\LaptopStoreAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "LaptopStoreAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\API\\LaptopStoreAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "LaptopStoreAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:53:43.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoMoSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\API\\LatopStore.MoMo\\MoMoSettings\\MoMoSettings.cs",
+              "RelativeDocumentMoniker": "LatopStore.MoMo\\MoMoSettings\\MoMoSettings.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\API\\LatopStore.MoMo\\MoMoSettings\\MoMoSettings.cs",
+              "RelativeToolTip": "LatopStore.MoMo\\MoMoSettings\\MoMoSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-13T12:11:22.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Service\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "LaptopStore.Service\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Service\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "LaptopStore.Service\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwvxEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-31T14:13:29.806Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoMoService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\API\\LatopStore.MoMo\\Services\\MoMoService.cs",
+              "RelativeDocumentMoniker": "LatopStore.MoMo\\Services\\MoMoService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\API\\LatopStore.MoMo\\Services\\MoMoService.cs",
+              "RelativeToolTip": "LatopStore.MoMo\\Services\\MoMoService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwHMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:43:58.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Service\\RequestModels\\OrderRequestModel.cs",
+              "RelativeDocumentMoniker": "LaptopStore.Service\\RequestModels\\OrderRequestModel.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Service\\RequestModels\\OrderRequestModel.cs",
+              "RelativeToolTip": "LaptopStore.Service\\RequestModels\\OrderRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:28:21.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "LaptopStore.Service\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\API\\LaptopStore.Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "LaptopStore.Service\\Services\\OrderService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-31T14:13:15.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
